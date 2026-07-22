@@ -1,3 +1,5 @@
+note: this is still a work in progress
+
 # Vulnerable-Binary
 
 # CrackMe++: Reverse Engineering Portfolio Project
